@@ -1,0 +1,4 @@
+from humanoid_reach.envs.arm_reach_env import ArmReachEnv
+from humanoid_reach.envs.arm_reach_with_block_env import ArmReachWithBlockEnv
+from humanoid_reach.envs.upper_body_reach_env import UpperBodyReachEnv
+from humanoid_reach.envs.upper_body_reach_with_block_env import UpperBodyReachWithBlockEnv
